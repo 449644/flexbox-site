@@ -5,8 +5,7 @@ body {
 }
 
 .logo{
-    max-height: 20%;
-    max-width: 20%;
+    width: 220px;
 }
 
 .h3 {
@@ -14,13 +13,26 @@ display:flex;
 }
 
 .column{
-    width: 40%;
+    width: 50%;
     padding: 5%;
-    float: left;
+   
 }
 
 .sunflowersimage {
     max-height: 50%;
     max-width: 50%;
+    display: flex;
+    padding-left: 25%;
+}
+article
+{
+    background-color: #ffffff;  
+    width: 80%; 
+    height: auto;
+    display: flex;
+    margin-left: 10%;
+}
 
+.lorem {
+    background-color: #67ab9f;
 }
