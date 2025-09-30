@@ -39,16 +39,18 @@ article
 }
 
 ul {
-  background-color: #333333;
-  display: flex;
-  justify-content: center;
+    list-style-type: none;
+    background-color: #817d7d;
+    display: flex;
+    justify-content: center;
 }
 
 ul li a {
   display: block;
   color: white;
-  padding: 14px 16px;
+  padding: 14px 50px;
   text-decoration: none;
+  
 }
 
 ul li a:hover {
