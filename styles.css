@@ -1,0 +1,26 @@
+body {
+    background-color: #67ab9f;
+    margin: 0px;
+    font-family: Tahoma;
+}
+
+.logo{
+    max-height: 20%;
+    max-width: 20%;
+}
+
+.h3 {
+display:flex;
+}
+
+.column{
+    width: 40%;
+    padding: 5%;
+    float: left;
+}
+
+.sunflowersimage {
+    max-height: 50%;
+    max-width: 50%;
+
+}
